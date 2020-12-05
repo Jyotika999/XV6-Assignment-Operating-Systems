@@ -1,4 +1,4 @@
-# XV6-SYSTEM-CALL
+# XV6-SYSTEM-CALLS
 
 This is all about the Assignment Of Operating System for XV6.
 

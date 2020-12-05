@@ -12,3 +12,11 @@ This is all about the Assignment Of Operating System for XV6.
 **Tasks**
 * Task1 : Tracing a System Call using XV6
 * Task2 : Adding a System Call in XV6
+
+
+**References**
+* https://www.youtube.com/watch?v=84OksVCw0AU
+* https://www.youtube.com/watch?v=JbdDRdindbg
+
+
+
